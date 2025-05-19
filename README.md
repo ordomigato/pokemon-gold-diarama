@@ -2,4 +2,4 @@
 
 A blender diarama
 
-![Image](./image.png)
+![Image](image.png)
